@@ -1,0 +1,3 @@
+Create a SummaryData version of the EmailTemplateLayout class and place it in the same files as the original class, it should inherit from SummaryData.  It should also have an EntityDescription similar to the original class, but it will use the plural for the object title.
+
+Have the original object implement the ISummaryFactory interface.  That CreateSummary method should create a new instance of the summary data and call the Populate method on the original classes, base class to populate the summary object.

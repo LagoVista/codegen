@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ResourceGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\NuvIoT\\ua.UserAdmin\\src\\LagoVista.UserAdmin.Models\r\nLagoVista.ProjectManagement"
+    }
+  }
+}
